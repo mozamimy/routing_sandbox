@@ -14,5 +14,9 @@ Files of [Cisco Pakcet Tracer](https://www.netacad.com/courses/packet-tracer-dow
 
 ![](internet_routing_3.3.4.png)
 
+## internet_routing_3.5.3.pkt: OSPFv3
+
+![](internet_routing_3.5.3.png)
+
 All code snippets are licensed under CC0 unless otherwise specified.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
