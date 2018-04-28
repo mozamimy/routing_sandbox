@@ -26,5 +26,9 @@ Files of [Cisco Pakcet Tracer](https://www.netacad.com/courses/packet-tracer-dow
 
 ![](internet_routing_4.3.2.png)
 
+## internet_routing_4.3.3.pkt: RIP configuration with redistributing
+
+![](internet_routing_4.3.3.png)
+
 All code snippets are licensed under CC0 unless otherwise specified.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
